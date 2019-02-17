@@ -30,7 +30,7 @@ title: "Publications"
 * Larissa Rocha Soares, Ivan do Carmo Machado, Eduardo Santana de Almeida:
 **Non-Functional Properties in Software Product Lines: A Reuse Approach**. VaMoS 2015: 67
 
-* SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **Rapid Releases and Patch Backouts: A Software Analytics Approach**. In: Software, IEEE, 2015. ([preprint](files/souza2015.pdf), [IEEE page](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7006390), [online edition](http://online.qmags.com/ISW0315#pg91&mode2))
+<!-- * SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **Rapid Releases and Patch Backouts: A Software Analytics Approach**. In: Software, IEEE, 2015. ([preprint](files/souza2015.pdf), [IEEE page](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7006390), [online edition](http://online.qmags.com/ISW0315#pg91&mode2)) -->
 
 ## 2014
 
