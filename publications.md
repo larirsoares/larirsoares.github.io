@@ -10,7 +10,7 @@ title: "Publications"
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo_Souza3)
 - [dblp](http://dblp.uni-trier.de/pers/hd/s/Souza:Rodrigo_R=_G=) -->
 
-##Publications
+## Publications
 
 ### 2018
 * Larissa Rocha Soares, Pierre-Yves Schobbens, Ivan do Carmo Machado, Eduardo Santana de Almeida: **Feature interaction in software product line engineering: A systematic mapping study**. Information & Software Technology 98: 44-58 (2018)

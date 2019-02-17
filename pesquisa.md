@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Pesquisa
 ---
 
+## Pesquisa
 [site em construção, colocarei links e o restante em breve]
 
 <!-- ## Publicações
