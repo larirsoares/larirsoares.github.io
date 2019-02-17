@@ -73,6 +73,14 @@ a:hover small {
       }
 }
 
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
 
 
 blockquote {
