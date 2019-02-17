@@ -71,6 +71,9 @@ Tenho certo carinho por outras áreas também: Inteligência Artificial, Microel
 - [Currículo Lattes](http://lattes.cnpq.br/5750570352089990)
 - [dblp](https://dblp.uni-trier.de/pers/hd/s/Soares:Larissa_Rocha)
 
+# Contato
+
+{% include contato.md %}
 
 <!-- ### Small image
 
