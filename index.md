@@ -56,7 +56,9 @@ Tem certo carinho por outras áreas também: Inteligência Artificial, Microelet
 
 ### Contato
 
-{% include contato.md %}
+- **Local**: Sala INES do Instituto de Matemática da UFBA
+- **E-mail**: larissars@dcc.ufba.br
+<!-- {% include contato.md %} -->
 
 <!-- ### Small image
 
