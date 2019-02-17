@@ -48,13 +48,13 @@ Tem certo carinho por outras áreas também: Inteligência Artificial, Microelet
   - level 2 item
 - level 1 item -->
 
-## Profiles
+### Profiles
 
 - [Google Scholar](https://scholar.google.com.br/citations?user=Ut6HiuAAAAAJ&hl=pt-BR)
 - [Currículo Lattes](http://lattes.cnpq.br/5750570352089990)
 - [dblp](https://dblp.uni-trier.de/pers/hd/s/Soares:Larissa_Rocha)
 
-## Contato
+### Contato
 
 {% include contato.md %}
 
