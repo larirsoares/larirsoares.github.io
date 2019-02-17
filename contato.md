@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contato
+title: Contact
 ---
 
-## Contato
+## Contact
 {% include contato.md %}

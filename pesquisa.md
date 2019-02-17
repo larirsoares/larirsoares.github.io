@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pesquisa
+title: Research
 ---
 
-## Pesquisa
+## Research
 [site em construção, colocarei links e o restante em breve]
 
 <!-- ## Publicações

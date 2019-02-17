@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ensino
+title: Teaching
 ---
 
-## Ensino
+## Teaching
 * [site em construção, colocarei links e o restante em breve]

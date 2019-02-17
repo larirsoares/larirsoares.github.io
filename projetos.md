@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projetos
+title: Projects
 ---
 
-## Projetos
+## Projects
 * [site em construção, colocarei links e o restante em breve]

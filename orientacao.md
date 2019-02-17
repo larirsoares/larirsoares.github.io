@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Orientação"
+title: "Orientation"
 ---
 
-## Orientação
+## Orientation
 * [site em construção, colocarei links e o restante em breve]
