@@ -3,10 +3,8 @@ layout: page
 title: Pesquisa
 ---
 
-## Engenharia de software
+[site em construção, colocarei links e o restante em breve]
 
-* [site em construção, colocarei links e o restante em breve]
+<!-- ## Publicações
 
-## Publicações
-
-Veja também as minhas [publicações](publications).
+Veja também as minhas [publicações](publications). -->
