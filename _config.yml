@@ -4,3 +4,9 @@ logo: /assets/img/logolari.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+twitter_username: xrodrigorgs
+github_username:  rodrigorgs
+
+# Build settings
+markdown: kramdown
