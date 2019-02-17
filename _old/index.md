@@ -2,26 +2,40 @@
 layout: default
 ---
 
-**Larissa Rocha Soares** 
-<!-- , _italic_, or ~~strikethrough~~. -->
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<!-- [Link to another page](./another-page.html). -->
+[Link to another page](./another-page.html).
 
-Doutoranda pela Universidade Federal da Bahia (UFBA), onde exerceu parte do doutorado como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA. 
-Mestre em Ciência da Computação pela UFBA (2014) com período sanduíche na Mälardalen University, Suécia. 
-Possui graduação em Engenharia de Computação pela Universidade Estadual de Feira de Santana (2011). 
+There should be whitespace between paragraphs.
 
-Pesquisadora do grupo Reuse in Software Engineering (RiSE) e membro do Laboratório de Engenharia de Software (LES - UFBA). 
-Professora substituta da UFBA. 
-
-Tem experiência em Ciência da Computação, com ênfase em Engenharia de Software, focada (mas não restrita) em projetos de detecção de falhas e interação entre features, análise de sistemas em tempo de execução, métodos, processos, ferramentas e métricas para o desenvolvimento de software reutilizável, linhas de produtos de software, variabilidade, sistemas altamente configuráveis e qualidade de software. 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
-Área de interesse: Engenharia de Software,  focada (mas não restrita) em projetos de detecção de falhas e interação entre features, análise de sistemas em tempo de execução, métodos, processos, ferramentas e métricas para o desenvolvimento de software reutilizável, linhas de produtos de software, variabilidade, sistemas altamente configuráveis e qualidade de software.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-Tenho certo carinho por outras áreas também: Inteligência Artificial, Microeletrônica, Circuitos elétricos e Sistemas Digitais.
+## Header 2
 
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
 #### Header 4
 
