@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
-# Larissa Rocha Soares
 <!-- **Larissa Rocha Soares**  -->
 <!-- , _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html). -->
 
-* **Formação**: Doutoranda pela Universidade Federal da Bahia (UFBA), onde exerceu parte do doutorado como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA. 
-Mestre em Ciência da Computação pela UFBA (2014) com período sanduíche na Mälardalen University, Suécia. 
-Possui graduação em Engenharia de Computação pela Universidade Estadual de Feira de Santana (2011). 
+* **Formação**: Doutoranda pela Universidade Federal da Bahia (UFBA), onde exerceu parte do doutorado como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA.
+Mestre em Ciência da Computação pela UFBA (2014) com período sanduíche na Mälardalen University, Suécia.
+Possui graduação em Engenharia de Computação pela Universidade Estadual de Feira de Santana (2011).
 
-* Professora substituta da UFBA. Pesquisadora do grupo Reuse in Software Engineering (RiSE) e membro do Laboratório de Engenharia de Software (LES - UFBA). 
+* **Profissão**: Professora substituta da UFBA. Pesquisadora do grupo Reuse in Software Engineering (RiSE) e membro do Laboratório de Engenharia de Software (LES - UFBA).
 
 * **Área de interesse**: Engenharia de Software,  focada (mas não restrita) em projetos de detecção de falhas e interação entre features, análise de sistemas em tempo de execução, métodos, processos, ferramentas e métricas para o desenvolvimento de software reutilizável, linhas de produtos de software, variabilidade, sistemas altamente configuráveis e qualidade de software.
 Tenho certo carinho por outras áreas também: Inteligência Artificial, Microeletrônica, Circuitos elétricos e Sistemas Digitais.
@@ -21,7 +20,7 @@ Tenho certo carinho por outras áreas também: Inteligência Artificial, Microel
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header. -->
-<!-- 
+<!--
 ###### Header 6
 
 | head1        | head two          | three |
@@ -32,7 +31,7 @@ Tenho certo carinho por outras áreas também: Inteligência Artificial, Microel
 | ok           | good `zoute` drop | yumm  |
  -->
 
-### There's a horizontal rule below this.
+<!-- ### There's a horizontal rule below this. -->
 
 * * *
 
@@ -66,13 +65,20 @@ Tenho certo carinho por outras áreas também: Inteligência Artificial, Microel
   - level 2 item
 - level 1 item -->
 
-### Small image
+## Profiles
+
+- [Google Scholar](https://scholar.google.com.br/citations?user=Ut6HiuAAAAAJ&hl=pt-BR)
+- [Currículo Lattes](http://lattes.cnpq.br/5750570352089990)
+- [dblp](https://dblp.uni-trier.de/pers/hd/s/Soares:Larissa_Rocha)
+
+
+<!-- ### Small image
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
 
 <!-- ### Definition lists can be used with HTML syntax.

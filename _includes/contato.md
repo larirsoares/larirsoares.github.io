@@ -1,0 +1,2 @@
+- **Local**: Sala INES do Instituto de Matemática da UFBA
+- **E-mail**: larissars@dcc.ufba.br
