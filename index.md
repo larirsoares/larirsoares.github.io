@@ -5,7 +5,7 @@ layout: default
 <!-- [Link to another page](./another-page.html). -->
 **Professora substituta da UFBA. Pesquisadora do grupo Reuse in Software Engineering (RiSE) e membro do Laboratório de Engenharia de Software (LES - UFBA).**
 
-* **Formação**: Doutorado pela Universidade Federal da Bahia (UFBA), onde exerceu parte do dele como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA.
+* **Formação**: Doutorado pela Universidade Federal da Bahia (UFBA), onde exerceu parte dele como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA.
 Mestre em Ciência da Computação pela UFBA (2014) com período sanduíche na Mälardalen University, Suécia.
 Possui graduação em Engenharia de Computação pela Universidade Estadual de Feira de Santana (2011).
 
