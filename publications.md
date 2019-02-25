@@ -11,6 +11,7 @@ title: "Publications"
 - [dblp](http://dblp.uni-trier.de/pers/hd/s/Souza:Rodrigo_R=_G=) -->
 
 ## Publications
+[site em construção, colocarei links e o restante em breve]
 
 ### 2018
 * Larissa Rocha Soares, Pierre-Yves Schobbens, Ivan do Carmo Machado, Eduardo Santana de Almeida: **Feature interaction in software product line engineering: A systematic mapping study**. Information & Software Technology 98: 44-58 (2018)
@@ -48,5 +49,3 @@ title: "Publications"
 ### Master Thesis
 
 **NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](files/Dissertação-mestrado.pdf))
-
-* [site em construção, colocarei links e o restante em breve]
