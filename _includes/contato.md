@@ -1,2 +1,2 @@
-- **Local**: Sala INES do Instituto de Matemática da UFBA
+- **Office**: INES at Math Institute, UFBA (Sala INES do Instituto de Matemática da UFBA).
 - **E-mail**: larissars@dcc.ufba.br
