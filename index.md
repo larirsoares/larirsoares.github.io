@@ -23,5 +23,5 @@ I received my M.Sc. degree from the Federal University of Bahia, in 2014. During
 
 ### Contato
 
-- **Local**: INES room at Math Institute, UFBA (Sala do INES do Instituto de Matemática da UFBA).
+- **Office**: INES at Math Institute, UFBA (Sala do INES do Instituto de Matemática da UFBA).
 - **E-mail**: larissars@dcc.ufba.br
