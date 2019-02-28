@@ -3,15 +3,13 @@ layout: default
 ---
 
 <!-- [Link to another page](./another-page.html). -->
-**Professora substituta da UFBA. Pesquisadora do grupo Reuse in Software Engineering (RiSE) e membro do Laboratório de Engenharia de Software (LES - UFBA).**
+**Substitute professor at UFBA. Researcher of the Reuse in Software Engineering (RiSE) group and member of the Software Engineering Laboratory (LES - UFBA).**
 
-* **Formação**: Doutorado pela Universidade Federal da Bahia (UFBA), onde exerceu parte dele como pesquisadora visitante na Carnegie Mellon University, Pittsburgh, USA.
-Mestre em Ciência da Computação pela UFBA (2014) com período sanduíche na Mälardalen University, Suécia.
-Possui graduação em Engenharia de Computação pela Universidade Estadual de Feira de Santana (2011).
+* **Education**: I received my Ph.D. degree from the Federal University of Bahia, in 2019, advised by Professor Eduardo Almeida and Ivan Machado. During the Ph.D., I was a visiting researcher at Carnegie Mellon University (USA), supervised by Professor Christian Kästner.
+I received my M.Sc. degree from the Federal University of Bahia, in 2014. During my Master, I was a visiting Scholar at Mälardalen University (Sweden). I received my B.S. in Computer Engineer from the State University of Feira de Santana in 2011.
 
 
-* **Área de interesse**: Engenharia de Software,  focada (mas não restrita) em projetos de detecção de falhas e interação entre features, análise de sistemas em tempo de execução, métodos, processos, ferramentas e métricas para o desenvolvimento de software reutilizável, linhas de produtos de software, variabilidade, sistemas altamente configuráveis e qualidade de software.
-Tem certo carinho por outras áreas também: Inteligência Artificial, Microeletrônica, Circuitos elétricos e Sistemas Digitais.
+* **Area of ​​interest**: Software Engineering, focused (but not restricted) on fault-detection and feature interaction projects, run-time systems analysis, methods, processes, tools and metrics for reusable software development, software quality, software product lines, highly configurable systems. I also have a certain affection for other areas as well: Artificial Intelligence, Machine Learning, Electrical Circuits and Digital Systems.
 
 
 * * *
@@ -25,5 +23,5 @@ Tem certo carinho por outras áreas também: Inteligência Artificial, Microelet
 
 ### Contato
 
-- **Local**: Sala INES do Instituto de Matemática da UFBA
+- **Local**: INES room at Math Institute, UFBA (Sala do INES do Instituto de Matemática da UFBA).
 - **E-mail**: larissars@dcc.ufba.br
