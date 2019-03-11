@@ -9,7 +9,7 @@ layout: default
 I received my M.Sc. degree from the Federal University of Bahia, in 2014. During my Master, I was a visiting Scholar at Mälardalen University (Sweden). I received my B.S. in Computer Engineer from the State University of Feira de Santana in 2011.
 
 
-* **Area of ​​interest**: Software Engineering, focused (but not restricted) on fault-detection and feature interaction projects, run-time systems analysis, methods, processes, tools and metrics for reusable software development, software quality, software product lines, highly configurable systems. I also have a certain affection for other areas as well: Artificial Intelligence, Machine Learning, Electrical Circuits and Digital Systems.
+* **Area of ​​interest**: Software Engineering, focused (but not restricted) on fault-detection and feature interaction projects, run-time systems analysis, methods, processes, tools and metrics for reusable software development, software quality, tests, software product lines, highly configurable systems. I also have a certain affection for other areas, such as: Artificial Intelligence, Machine Learning, Electrical Circuits and Digital Systems.
 
 
 * * *
