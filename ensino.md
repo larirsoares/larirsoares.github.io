@@ -6,8 +6,8 @@ title: Teaching
 ## Teaching
 * [site em construção, colocarei links e o restante em breve]
 
-###Courses:
+### Courses:
 * Software Engineering
 * Programming Logic
-* Digital Electronics  - Logic Circuits 
+* Digital Electronics  - Logic Circuits
 * Computer Architecture
