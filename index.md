@@ -21,7 +21,7 @@ I received my M.Sc. degree from the Federal University of Bahia, in 2014. During
 - [Currículo Lattes](http://lattes.cnpq.br/5750570352089990)
 - [dblp](https://dblp.uni-trier.de/pers/hd/s/Soares:Larissa_Rocha)
 
-### Contato
+### Contact 
 
 - **Office**: INES at Math Institute, UFBA (Sala do INES do Instituto de Matemática da UFBA).
 - **E-mail**: larissars@dcc.ufba.br
