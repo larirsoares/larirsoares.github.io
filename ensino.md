@@ -7,7 +7,9 @@ title: Teaching
 * [site em construção, colocarei links e o restante em breve]
 
 ### Courses:
-* Software Engineering
+* Software Architecture
+* Artificial Intelligence
+* Information Systems Theory
 * Programming Logic
-* Digital Electronics  - Logic Circuits
+* Digital Electronics - Logic Circuits
 * Computer Architecture
