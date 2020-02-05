@@ -13,6 +13,10 @@ title: "Publications"
 ## Publications
 [site em construção, colocarei links e o restante em breve]
 
+### 2019
+* Renata Souza, Larissa Rocha Soared, Franklin Silva, Ivan Machado: **Investigating agile practices in software startups**. IXXXIII Brazilian Symposium on Software Engineering (2019)
+* Tássio Virgínio, Railana Santana, Luana Almeida Martins, Larissa Rocha Soares, Heitor Costa, Ivan Machado: **On the influence of Test Smells on Test Coverage**. XXXIII Brazilian Symposium on Software Engineering (2019).
+
 ### 2018
 * Larissa Rocha Soares, Pierre-Yves Schobbens, Ivan do Carmo Machado, Eduardo Santana de Almeida: **Feature interaction in software product line engineering: A systematic mapping study**. Information & Software Technology 98: 44-58 (2018)
 * Larissa Rocha Soares, Jens Meinicke, Sarah Nadi, Christian Kästner, Eduardo Santana de Almeida: **Exploring feature interactions without specifications: a controlled experiment**. GPCE 2018: 40-52
