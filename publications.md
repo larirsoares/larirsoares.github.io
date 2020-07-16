@@ -13,8 +13,11 @@ title: "Publications"
 ## Publications
 [site em construção, colocarei links e o restante em breve]
 
+### 2020
+* Nildo Silva Junior, Larissa Rocha Soares, Luana Almeida Martins, Ivan Machado: **A survey on test practitioners' awareness of test smells.** arXiv:2003.05613 [cs.SE] (2020).
+
 ### 2019
-* Renata Souza, Larissa Rocha Soared, Franklin Silva, Ivan Machado: **Investigating agile practices in software startups**. IXXXIII Brazilian Symposium on Software Engineering (2019)
+* Renata Souza, Larissa Rocha Soares, Franklin Silva, Ivan Machado: **Investigating agile practices in software startups.** IXXXIII Brazilian Symposium on Software Engineering (2019)
 * Tássio Virgínio, Railana Santana, Luana Almeida Martins, Larissa Rocha Soares, Heitor Costa, Ivan Machado: **On the influence of Test Smells on Test Coverage**. XXXIII Brazilian Symposium on Software Engineering (2019).
 
 ### 2018
