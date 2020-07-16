@@ -5,7 +5,7 @@ layout: default
 <!-- [Link to another page](./another-page.html). -->
 **Professor at UEFS and PostDoc at UFBA. Researcher of the Reuse in Software Engineering (RiSE) group and member of the Software Engineering Laboratory (LES - UFBA).**
 
-**[Portuguese] Professora substituta na UEFS e posdoutoranda na UFBA**
+[Portuguese] **Professora substituta na UEFS e posdoutoranda na UFBA.**
 
 * **Education**: I received my Ph.D. degree from the Federal University of Bahia (2019), advised by Professor Eduardo Almeida, Ivan Machado and Christian Kästner. During the Ph.D., I was a visiting researcher at Carnegie Mellon University (Pittsburgh, USA), supervised by Professor Christian Kästner.
 I received my M.Sc. degree from the Federal University of Bahia (2014). During my Master, I was a visiting Scholar at Mälardalen University (Västerås, Sweden). I have a B.S. in Computer Engineer from the State University of Feira de Santana, 2011.
