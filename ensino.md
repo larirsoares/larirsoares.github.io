@@ -7,6 +7,8 @@ title: Teaching
 * [site em construção, colocarei links e o restante em breve]
 
 ### Courses:
+* Software engineering
+* Project of Systems
 * Software Architecture
 * Artificial Intelligence
 * Information Systems Theory
