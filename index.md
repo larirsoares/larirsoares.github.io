@@ -3,9 +3,8 @@ layout: default
 ---
 
 <!-- [Link to another page](./another-page.html). -->
-**Professor at UEFS, where I am also professor in the Graduate Program in Computer Science - PGCC (master's program) at UEFS. Additionally, I am PostDoc at UFBA.
-
-and PostDoc at UFBA. Researcher of the Reuse in Software Engineering (RiSE) group and member of the Software Engineering Laboratory (LES - UFBA).**
+* **Professor at UEFS, where I am also professor in the Graduate Program in Computer Science - PGCC (master's program) at UEFS.**
+* **PostDoc at UFBA. Researcher of the Reuse in Software Engineering (RiSE) group and member of the Software Engineering Laboratory (LES - UFBA).**
 
 [Portuguese] **Atualmente, sou Professora substituta na UEFS,  onde também faço parte do corpo docente permanente do Programa de Pós-Graduação em Ciência da Computação - PGCC (mestrado) da UEFS. Além disso, sou pós-doutoranda en Engenharia de Software na UFBA**
 
