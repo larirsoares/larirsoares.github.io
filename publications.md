@@ -59,4 +59,4 @@ title: "Publications"
 
 ### Master Dissertation
 
-**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia, 2014 ([thesis](/files/Dissertação-mestrado.pdf))
+**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia, 2014 ([thesis](/files/Dissertacaomestrado.pdf))
