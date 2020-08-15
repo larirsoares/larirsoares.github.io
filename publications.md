@@ -14,6 +14,8 @@ title: "Publications"
 [site em construção, colocarei links e o restante em breve]
 
 ### 2020
+* Larissa Rocha Soares, Ivan Machado, Eduardo Almeida, Christian Kästner, Sarah Nadi: **A Semi-Automated Iterative Process for Detecting Feature Interactions.** 34th Brazilian Symposium on Software Engineering, SBES (2020).
+* Tassio Virginio, Luana Martins, Larissa Rocha Soares, Railana Santana, Heitor Costa, Ivan do Carmo Machado: **An Empirical Study of Automatically-Generated Tests from the Perspective of Test Smells.** 34th Brazilian Symposium on Software Engineering, SBES (2020).
 * Nildo Silva Junior, Larissa Rocha Soares, Luana Almeida Martins, Ivan Machado: **A survey on test practitioners' awareness of test smells.** arXiv:2003.05613 [cs.SE] (2020).
 
 ### 2019
