@@ -53,6 +53,10 @@ title: "Publications"
 *	IA dos Santos Luz, Larissa Rocha Soares, DMB dos Santos, GRPR Pinto: **A OFICINA PBL: ACOLHIDA E FORMAÇÃO DOS NOVOS ESTUDANTES DO CURSO DE ENGENHARIA DE COMPUTAÇÃO NO MÉTODO PBL** XXXVIII Congresso Brasileiro de Educação em Engenharia. 2010
 
 
-### Master Thesis
+### PhD Thesis
 
-**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](larirsoares.github.io/files/Dissertação-mestrado.pdf))
+**FEATURE INTERACTIONS IN HIGHLY CONFIGURABLE SYSTEMS: A DYNAMIC ANALYSIS APPROACH WITH VARXPLORER**. PhD in Computer Science, Federal University of Bahia. ([thesis](/files/Tese Final_Larissa Rocha.pdf))
+
+### Master Dissertation
+
+**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](/files/Dissertação-mestrado.pdf))
