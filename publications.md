@@ -55,8 +55,8 @@ title: "Publications"
 
 ### PhD Thesis
 
-**FEATURE INTERACTIONS IN HIGHLY CONFIGURABLE SYSTEMS: A DYNAMIC ANALYSIS APPROACH WITH VARXPLORER**. PhD in Computer Science, Federal University of Bahia. ([thesis](/files/Tese Final_Larissa Rocha.pdf))
+**FEATURE INTERACTIONS IN HIGHLY CONFIGURABLE SYSTEMS: A DYNAMIC ANALYSIS APPROACH WITH VARXPLORER**. PhD in Computer Science, Federal University of Bahia, 2019 ([thesis](/files/Tese Final_Larissa Rocha.pdf))
 
 ### Master Dissertation
 
-**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](/files/Dissertação-mestrado.pdf))
+**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia, 2014 ([thesis](/files/Dissertação-mestrado.pdf))
