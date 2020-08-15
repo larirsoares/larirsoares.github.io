@@ -55,4 +55,4 @@ title: "Publications"
 
 ### Master Thesis
 
-**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](files/Dissertação-mestrado.pdf))
+**NON-FUNCTIONAL PROPERTIES IN SOFTWARE PRODUCT LINES: A REUSE APPROACH**. Master in Computer Science, Federal University of Bahia. ([thesis](larirsoares.github.io/files/Dissertação-mestrado.pdf))
